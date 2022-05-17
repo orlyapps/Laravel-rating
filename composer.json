@@ -1,11 +1,11 @@
 {
-    "name": "nagy/laravel-rating",
+    "name": "orlyapps/laravel-rating",
     "description": "manage rating column for elqouent models",
     "keywords": [
         "nagy",
         "laravel-rating"
     ],
-    "homepage": "https://github.com/nagy/laravel-rating",
+    "homepage": "https://github.com/orlyapps/laravel-rating",
     "license": "MIT",
     "authors": [
         {
@@ -20,8 +20,8 @@
         }
     ],
     "require": {
-        "php": "^8.0|^7.3",
-        "illuminate/contracts": "^8.0|^7.0|^6.0"
+        "php": "^8.0",
+        "illuminate/contracts": "^9.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0|^5.0|^4.0",
